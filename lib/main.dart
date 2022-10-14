@@ -23,7 +23,7 @@ class MyApp extends StatelessWidget {
         fontFamily: 'BentonSansBold',
       ),
       debugShowCheckedModeBanner: false,
-      home: callPage(),
+      home: UploadPage(),
     );
   }
 }
